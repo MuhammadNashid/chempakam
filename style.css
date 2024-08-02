@@ -4,3 +4,13 @@
     top: 200px;
     color: aliceblue;
 }
+.display-1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.display-4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.button{
+    background-color: aliceblue;
+    border: 1px solid white;
+}
